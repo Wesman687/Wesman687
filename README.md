@@ -1,45 +1,66 @@
-## Hi there 👋,
+## Hi there, I'm Paul Miracle - A Full Stack Developer and AI Enthusiast! 👋
 
-### I'm Paul Miracle, a Full Stack Developer obsessed with coding.
+### AI Generated Analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesman687)
+As an active professional contributor on GitHub, Paul Miracle has demonstrated a continuous involvement and commitment to coding. With 47 public repositories showcasing his skills, interests, and projects, Paul has established himself as a proficient developer with expertise in languages such as JavaScript, CSS, HTML, TypeScript, Python, and Java. His coding habits, including 503 commits, indicate his dedication and fondness for frontend development.
 
-## 🧐 About
+Throughout his GitHub journey, Paul has made considerable contributions to various projects, solidifying his collaborative nature and eagerness to explore diverse technologies. Notably, his expertise is reflected in projects like "NextjsEcommerceAdmin," a Next.js application integrated with MongoDB and Firebase, and "mile-high," a personal AI assistant that stores user prompts and provides a personalized search experience.
 
-- 💻 I have a total of 47 public repositories, showcasing my continuous involvement and commitment to coding.
-- 🚀 I am an active user on GitHub with 503 commits, reflecting my dedication and passion for coding.
-- 👨‍💻 My skill set includes languages like JavaScript, CSS, HTML, and TypeScript, with a focus on web development.
-- 🌐 You can find more information about me on my personal website: [paul-miracle.info](http://paul-miracle.info). 
+Additionally, Paul's church webpage, built using Next.js and utilizing MongoDB and Firebase for login and database services, highlights his capability to create efficient and interactive web applications. He is actively striving to enhance it by integrating a FASTapi on his DigitalOcean server to manage email notifications, member communications, and important announcements.
 
-## Projects
+Among his projects, Paul's latest and favorite endeavor is the AI Accelerator program. This project's architecture incorporates diverse technologies, including a Next.js frontend, a DigitalOcean MySQL database, Python API integration, Docker/Vercel for hosting, and storage blobs, Stripe, and Clerk for authentication purposes. The AI Accelerator program acts as a foundation for Paul's future AI development apps.
 
-Here are some of my projects that highlight my skills and passion for web development:
+Driven by his passion for AI, Paul is focused on developing a personal AI assistant that combines intelligence with context-awareness. It aims to improve search results based on user prompts, handle user events and information, and ultimately provide a fully personalized assistant experience.
 
-- [Church of God Website](https://www.palatka-firstchurchofgod.org/)
-  A web application built with Next.js and integrated with MongoDB and Firebase for login and database services. This project showcases my proficiency in full stack web development.
- 
-- [AI - Accelerator Program](https://fullstack-ai-marketing-platform-beige.vercel.app/projects)
-  A full stack AI marketing platform that I am currently working on. It involves a Next.js frontend, a digital ocean MySQL database, and Python for API interaction. In addition, I use technologies like Docker, Vercel, Storage Blobs, Stripe, and Clerk Authentication. This project demonstrates my expertise in using various technologies to build complex applications.
+Despite his current pursuit of personal projects, Paul is also learning Java and actively participating in the Revature Pro Java bootcamp to expand his programming knowledge and explore varying programming languages and environments. His dedication to continuously learning and exploring new technologies displays his adaptability and commitment to personal growth.
 
+If you want to learn more about Paul Miracle's projects and explore his codebase in greater depth, feel free to visit his [GitHub Profile](https://github.com/Wesman687).
 
-- My Personal AI Assistant (currently in development)
-  This project aims to create a personal AI assistant that stores user prompts and provides personalized search results. I plan to incorporate it into the AI platform once it is complete. 
-  
-## Skills
+## &#x1f4c8; GitHub Stats
 
-Here are my primary programming languages and skills:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Wesman687)
 
-- Java
-- Python
-- JavaScript
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesman687)
 
-## Contact Information
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wesman687)](https://github.com/Wesman687)
 
-Feel free to reach out to me via the following channels:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wesman687)](https://git.io/streak-stats)
 
-- [GitHub](https://github.com/Wesman687)
-- [Personal Website](http://paul-miracle.info)
+## 📫 Contact Me
 
+To reach out to Paul Miracle, you can:
+- Visit his personal website: [paul-miracle.info](http://paul-miracle.info)
+- Connect with him via email: paulmiracledev@gmail.com
+- Find him on LinkedIn: [Paul Miracle](https://www.linkedin.com/in/paul-miracle-760404200/)
+- Check out his church's webpage: [Palatka First Church of God](https://www.palatka-firstchurchofgod.org/)
 
+Paul is open to collaborations, job opportunities, and exploring new programming languages and environments. Don't hesitate to connect with him for any inquiries or suggestions!
 
-_Please note that more detailed information about my profile and projects may be available on my GitHub profile. Thank you!_
+## 🧠 Skills
+
+- Languages: JavaScript, CSS, HTML, TypeScript, Python, Java
+- Frameworks: Next.js, Docker
+- Databases: MySQL, MongoDB, Firebase
+- Tools: DigitalOcean, Vercel, Stripe, Clerk, Machine Learning, AI
+
+## &#x1f4aa; Portfolio Highlights
+
+1. Project: [NextjsEcommerceAdmin](https://github.com/Wesman687/NextjsEcommerceAdmin)
+   - Description: A complete eCommerce administration dashboard application built using Next.js, MongoDB, and Firebase.
+   - Technologies: Next.js, MongoDB, Firebase
+
+2. Project: [mile-high](https://github.com/Wesman687/mile-high)
+   - Description: A personal AI assistant that curates user prompts, delivering personalized search experiences.
+   - Technologies: Python, AI, Machine Learning, Natural Language Processing
+
+3. Project: AI Accelerator Program
+   - Description: An ambitious AI-driven platform built with multiple technologies, including Next.js, DigitalOcean, Python API, Docker, and many more.
+   - Technologies: Next.js, DigitalOcean, MySQL, Python, Docker, Vercel, Stripe, Clerk
+
+These are just a few of Paul's remarkable projects. Feel free to explore his GitHub repositories to gain further insight into his skills, expertise, and personal projects.
+
+Remember, coding is Paul's passion, and he is continually expanding his knowledge of different languages and exploring new environments. He embraces challenge and thrives on growing his capabilities as a developer. So, don't hesitate to collaborate or share exciting opportunities with him!
+
+---
+
+*Note: The insights provided are based on available public GitHub activity and self-reported information from Paul Miracle.
