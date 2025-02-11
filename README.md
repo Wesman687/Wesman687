@@ -9,8 +9,6 @@
 - 💻 I have a total of 47 public repositories, showcasing my continuous involvement and commitment to coding.
 - 🚀 I am an active user on GitHub with 503 commits, reflecting my dedication and passion for coding.
 - 👨‍💻 My skill set includes languages like JavaScript, CSS, HTML, and TypeScript, with a focus on web development.
-- ⭐ One example of my project contributions is "NextjsEcommerceAdmin," a significant project with 1 star, showing its significance among the developer community.
-- 👥 I have accumulated 2 followers on GitHub, displaying my growing presence on the platform.
 - 🌐 You can find more information about me on my personal website: [paul-miracle.info](http://paul-miracle.info). 
 
 ## Projects
