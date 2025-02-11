@@ -30,7 +30,7 @@ If you want to learn more about Paul Miracle's projects and explore his codebase
 
 To reach out to Paul Miracle, you can:
 - Visit his personal website: [paul-miracle.info](http://paul-miracle.info)
-- Connect with him via email: paulmiracledev@gmail.com
+- Connect with him via email: Wesman687@gmail.com
 - Find him on LinkedIn: [Paul Miracle](https://www.linkedin.com/in/paul-miracle-760404200/)
 - Check out his church's webpage: [Palatka First Church of God](https://www.palatka-firstchurchofgod.org/)
 
